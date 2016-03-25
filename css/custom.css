@@ -4,3 +4,8 @@
 body { line-height: 1.42587; }
 
 .thumb-info .thumb-info-action {background-color: rgba(0,299,255,0.8);}
+
+#header {background: url('http://dn-vedio.xixicard.com/images/bg-ltblue-city.jpg') center center no-repeat;
+background-attachment: fixed; 
+background-size: cover;
+}
