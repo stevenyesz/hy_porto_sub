@@ -2,3 +2,5 @@
 *** PORTO_SUB STYLE SHEET***
 ========================================================================*/
 body { line-height: 1.42587; }
+
+.thumb-info .thumb-info-action {background-color: rgba(0,299,255,0.8);}
