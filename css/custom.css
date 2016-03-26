@@ -9,3 +9,5 @@ body { line-height: 1.42587; }
 background-attachment: fixed; 
 background-size: cover;
 }
+
+#logo img{border-radius: 8px;}
